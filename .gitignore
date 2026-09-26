@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.venv/
+.deps/
+__pycache__/
+*.py[cod]
+results/
+console-recordings/
+.DS_Store
+requirements.lock.txt

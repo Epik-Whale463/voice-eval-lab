@@ -1,0 +1,7 @@
+livekit-agents[deepgram,openai,silero]==1.8.3
+python-dotenv==1.2.3
+-e .deps/tau2-bench
+# This tau-bench revision imports audio utilities even for retail-only use.
+websockets==17.1
+scipy==1.18.1
+pydub==0.25.1
